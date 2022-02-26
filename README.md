@@ -12,3 +12,12 @@ pip install fire
 ```
 python cibus.py your-username your-password your-organization
 ```
+
+### example
+```
+python cibus.py rbrmn 123456 brmnincorporated
+
+Output:
+
+123.45
+```
